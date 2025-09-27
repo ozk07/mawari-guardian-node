@@ -159,7 +159,8 @@ sudo usermod -aG docker $USER
 ## Destek
 
 Discord: [Mawari Discord](https://discord.gg/mawari)
-Twitter: [@MawariNetwork](https://twitter.com/MawariNetwork)
+Twitter: [@MawariNetwork](https://x.com/mawariXR)
 
 ---
 **Not:** Bu rehber TestNet içindir. MainNet'te değişiklikler olabilir.
+
